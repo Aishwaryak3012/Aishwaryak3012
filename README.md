@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aishwaryak3012
 - 👀 I’m interested in Data Science Community
-- 🌱 I’m recently compliting my MSc in statistics
+- 🌱 completed Masters in statistics with keen interest in Data Science domain.
 - 💞️ I’m looking for job as a Data Scietist / Data Analyst / Machine learning engineer
 - 📫 You can connect with me on linkedin or on naukari.com
 

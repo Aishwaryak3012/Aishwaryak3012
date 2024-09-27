@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Aishwaryak3012
 - 👀 I’m interested in Data Science Community
 - 🌱 completed Masters in statistics with keen interest in Data Science domain.
-- 💞️ I’m looking for job as a Data Scietist / Data Analyst / Machine learning engineer
+- Also completed the data scientist certified course with 6 months duration and gain hands on practice with different projects.
+- Currently working as a data science and analytics Intern at zidio development.
+- 💞️ I’m looking for full time opportunity in as a Data Science domain.
 - 📫 You can connect with me on linkedin or on naukari.com
 
 <!---
